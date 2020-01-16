@@ -1,0 +1,21 @@
+.main{
+  margin-top: 20px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.h1{
+    align-self: center;
+}
+
+.author{
+ width: 50%;
+ float: left;
+}
+.created{
+  text-align: right;
+  width: 50%;
+  float: left;
+}
+.content{
+  margin-top: 25px;
+}

@@ -1,0 +1,35 @@
+.blogPage{
+  width: 100%;
+  height: auto;
+  display: table;
+  margin-left: auto;
+}
+
+.blogContent{
+  float: left;
+  margin-left: 50px;
+  width: 75%;
+  display: table-cell
+}
+
+.blogTool{
+  width: 15%;
+  float: left;
+  display: table-cell
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 14px;
+}
+.rangepick{
+  margin-top: 10px;
+}
+.info{
+  margin-top: 27px;
+  background-color: skyblue;
+}
+.list{
+  margin-left: 50px;
+  margin-top: 20px;
+}

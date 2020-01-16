@@ -1,0 +1,32 @@
+.content{
+  display: table;
+  height: 750px;
+  width: 100%;
+}
+.inputdiv{
+  display: cell;
+  float: left;
+  margin-left: 20px;
+  height: 700px;
+  width: 50%;
+}
+.showdiv{
+  display: cell;
+  float: left;
+  width: 45%;;
+}
+.header{
+  width: 90%;
+  float: left;
+}
+.submit{
+  float: left;
+  width: 10%;
+}
+.headerInput{
+  width: 70%;
+  font: left;
+}
+.author{
+  width: 30%;
+}

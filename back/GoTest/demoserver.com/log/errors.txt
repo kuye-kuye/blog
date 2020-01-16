@@ -1,0 +1,7 @@
+Info:2020/01/15 16:37:55 elasticsearch.go:86: 查找博客失败 elastic: Error 404 (Not Found): no such index [type=index_not_found_exception]
+Info:2020/01/15 16:37:55 elasticsearch.go:86: 查找博客失败 elastic: Error 404 (Not Found): no such index [type=index_not_found_exception]
+Info:2020/01/16 08:46:02 elasticsearch.go:22: 连接elasticsearch失败 health check timeout: Head http://127.0.0.1:9200: dial tcp 127.0.0.1:9200: connect: connection refused: no Elasticsearch node available
+Info:2020/01/16 14:27:10 elasticsearch.go:95: 获取博客失败 elastic: Error 404 (Not Found)
+Info:2020/01/16 14:27:10 elasticsearch.go:95: 获取博客失败 elastic: Error 404 (Not Found)
+Info:2020/01/16 14:28:08 elasticsearch.go:95: 获取博客失败 elastic: Error 404 (Not Found)
+Info:2020/01/16 14:28:08 elasticsearch.go:95: 获取博客失败 elastic: Error 404 (Not Found)
