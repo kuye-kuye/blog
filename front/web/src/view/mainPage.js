@@ -10,7 +10,6 @@ class mainPage extends React.Component {
   };
 
   handleClick = e => {
-    console.log('click ', e);
     this.setState({
       current: e.key,
     });
@@ -25,7 +24,7 @@ class mainPage extends React.Component {
               <Link to='/mainPage/blog'>博客</Link>
             </Menu.Item>
             <Menu.Item className='menuItem' key="mindmap" >
-              <Link to='/mainPage/mindmap'>头脑风暴</Link>
+              <Link to='/personalPage' target='_brank'>个人简历</Link>
             </Menu.Item>
             <Menu.Item className='menuItem' key="resume">
               <Link to='/mainPage/resume'>Markdown</Link>
